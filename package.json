@@ -1,6 +1,6 @@
 {
   "name": "ozisik-paketleme-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ozisik Paketleme Otomatik Atama Telegram Bot",
   "main": "index.js",
   "engines": {
