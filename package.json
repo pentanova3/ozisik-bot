@@ -1,17 +1,9 @@
 {
-  "name": "ozisik-paketleme-bot",
-  "version": "1.0.1",
-  "description": "Ozisik Paketleme Otomatik Atama Telegram Bot",
+  "name": "ozisik-bot",
+  "version": "1.0.0",
+  "description": "Ozisik Hatirlatma Telegram Bot",
   "main": "index.js",
-  "engines": {
-    "node": ">=18.0.0"
-  },
   "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {
-    "firebase-admin": "^12.0.0",
-    "node-cron": "^3.0.3",
-    "node-fetch": "^2.7.0"
   }
 }
